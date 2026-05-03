@@ -3,14 +3,14 @@
 Control your PC with hand gestures using a webcam.
 
 ## Install
-\`\`\`
+```
 pip install -r requirements.txt
-\`\`\`
+```
 
 ## Run
-\`\`\`
+```
 python virtual_hand_control.py
-\`\`\`
+```
 
 ## Gestures
 | Gesture | Action |
